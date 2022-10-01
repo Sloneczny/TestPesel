@@ -1,0 +1,8 @@
+C:\Users\Bartekk\source\repos\pesel\pesel\bin\Debug\pesel.exe.config
+C:\Users\Bartekk\source\repos\pesel\pesel\bin\Debug\pesel.exe
+C:\Users\Bartekk\source\repos\pesel\pesel\bin\Debug\pesel.pdb
+C:\Users\Bartekk\source\repos\pesel\pesel\obj\Debug\pesel.csproj.AssemblyReference.cache
+C:\Users\Bartekk\source\repos\pesel\pesel\obj\Debug\pesel.csproj.CoreCompileInputs.cache
+C:\Users\Bartekk\source\repos\pesel\pesel\obj\Debug\pesel.exe
+C:\Users\Bartekk\source\repos\pesel\pesel\obj\Debug\pesel.pdb
+C:\Users\Bartekk\source\repos\pesel\pesel\obj\Debug\pesel.csproj.SuggestedBindingRedirects.cache
