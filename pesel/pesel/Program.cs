@@ -15,6 +15,7 @@ namespace pesel
             Console.WriteLine(z.Plec());
             z.DataUrodzenia();
             z.Plec();
+            z.SprawdzPesel();
 
 
         }
